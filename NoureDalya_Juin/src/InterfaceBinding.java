@@ -62,6 +62,8 @@ Label4.setText("=");
 		nombre2=Integer.parseInt(txt2.getText());
 		resultat=nombre1+nombre2;
 		
+		
+		
 
 		groupe.getChildren().add(txt1);
 		groupe.getChildren().add(txt2);
